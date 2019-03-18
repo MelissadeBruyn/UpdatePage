@@ -1,0 +1,56 @@
+body {
+    margin: 30px;
+    background-size: 1000px;
+    background-color:rgb(24, 24, 24);
+}
+
+
+img {
+   position: fixed;
+   width: 1306px;
+   height: auto;
+}
+
+ul {
+    height: 170px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(24, 24, 24);
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  li {
+   margin-left:-17px;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: rgb(236, 236, 236);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    color: rgb(161, 161, 161);
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+
+
+
+
+
+.square4 {
+        z-index: 7px;
+        position: fixed;
+        height: 800px;
+        width: 300px;
+        background-color:rgb(247, 247, 247);
+        margin-top: 0px;
+        margin-left: 800px;
+    }
