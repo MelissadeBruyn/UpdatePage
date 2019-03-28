@@ -69,11 +69,10 @@ img {
 }
 
 .square2 {
-    height: 600px;
+    height: 100%;
     width: 300px;
     background-color: rgb(255, 255, 255);
     margin-left: 35%;
-    margin-top: 35px;
     position: fixed;
     z-index:-4;
 }
