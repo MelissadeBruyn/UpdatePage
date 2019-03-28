@@ -10,6 +10,9 @@ ul {
   top: 0;
   width: 100%;
   height: 80px;
+  -webkit-box-shadow: 3px 5px 19px -6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 5px 19px -6px rgba(0,0,0,0.75);
+  box-shadow: 3px 5px 19px -6px rgba(0,0,0,0.75);
 }
 
 li {
@@ -34,8 +37,10 @@ li a:hover:not(.active) {
 img {
   width: 1200px;
   height: auto;
+  bottom:0;
   margin: 82px;
   position: fixed;
+  border-radius: 20px;
   z-index: -10;
 }
 
