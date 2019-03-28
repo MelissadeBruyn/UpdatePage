@@ -40,17 +40,17 @@ img {
 }
 
 .square {
-  height: 100px;
+  height: 82px;
   width: 3000px;
   background-color: rgb(255, 255, 255);
-  margin-top: 545px;
+  bottom: 0px;
   position: fixed;
   z-index:5;
 }
 
 p.sideways  {
-  margin-top: 28%;
-  margin-left: 33.5%;
+  top: 35%;
+  left: 33.5%;
   -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,1), rgba(0,0,0,0)), linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0.1));
   -webkit-mask-size: 100% 50%;
   -webkit-mask-repeat: no-repeat;
