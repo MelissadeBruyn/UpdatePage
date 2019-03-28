@@ -34,7 +34,7 @@ li a:hover:not(.active) {
 img {
   width: 1200px;
   height: auto;
-  margin-left: 6%;
+  margin-left: 5.3%;
   margin-top: 120px;
   position: fixed;
   z-index: -10;
@@ -71,16 +71,6 @@ p.sideways  {
   position: fixed;
 /*  -ms-transform: rotate(90deg);
   -webkit-transform: rotate(90deg); */
-}
-.flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.flex-container > div {
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
 }
 
 
