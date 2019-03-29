@@ -54,7 +54,7 @@ img {
 }
 
 p.sideways  {
-  top: 35%;
+  top: 30%;
   left: 33.5%;
   -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,1), rgba(0,0,0,0.07)), linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0.1));
   -webkit-mask-size: 100% 50%;
